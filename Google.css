@@ -8,17 +8,21 @@
 
 #Gmail {
 	float: right;
-	margin-top: 10px;
+	margin-top: 12px;
 	padding-right: 15px;
 	background-color: ;
+	font-family: 'Product Sans', Arial, sans-serif;
+	font-size: 12px;
 }
 
 #Imagenes {
 	text-align: right;
 	float: right;
-	margin-top: 10px;
+	margin-top: 12px;
 	padding-right: 15px;
 	background-color: ;
+	font-family: 'Product Sans', Arial, sans-serif;
+	font-size: 12px;
 }
 
 #cuadrado {
@@ -48,7 +52,7 @@
 article {
 	width: 100%;
 	height: 100%;
-	background-color: pink;	
+	background-color: ;	
 	overflow: hidden;
 	margin: 0 auto;
 }
@@ -79,17 +83,17 @@ article {
 
 .searchbutton {
 	width: 110px;
-	height: 30px;
+	height: 35px;
 	background-color: whitesmoke;
 	float: left;
-	margin: auto;
+	margin: 25px;
 	margin-top: 20px;
 	font-size: 8px;
 	color: darkgray;
 	text-align: center;
 	margin-left: 50%;
 	border-radius: 2px;
-	
+
 }
 
 .searchbutton img {
@@ -98,7 +102,7 @@ article {
 
 .luckybutton {
 	width: 110px;
-	height: 30px;
+	height: 35px;
 	background-color: whitesmoke;
 	float: left;
 	margin-top: 20px;
@@ -112,18 +116,19 @@ article {
 	width: 240px;
 	height: 50px;
 	background-color: aliceblue;	
-	margin-top: 150px;
-	padding-left: 10px;
+	margin-top: 110px;
 	font-size: 10px;
+	margin-left: auto;
 }
 
 
 footer {
 	width: 90%;
-	height: 65px;
+	height: 40px;
 	background-color: gainsboro;
 	margin: auto;
 	margin-top: 50px;
 	margin-bottom: 15px;
+	border-radius: 2px;
 
 }
