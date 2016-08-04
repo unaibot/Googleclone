@@ -1,0 +1,129 @@
+
+#navegador {
+	;
+	height: 25px;
+	width: 50px;
+	display: inline;
+}
+
+#Gmail {
+	float: right;
+	margin-top: 10px;
+	padding-right: 15px;
+	background-color: ;
+}
+
+#Imagenes {
+	text-align: right;
+	float: right;
+	margin-top: 10px;
+	padding-right: 15px;
+	background-color: ;
+}
+
+#cuadrado {
+	text-align: right;
+	float: right;
+	margin-top: 8px;
+	padding-right: 15px;
+	background-color: ;
+}
+
+#campana {
+	text-align: right;
+	float: right;
+	margin-top: 8px;
+	padding-right: 15px;
+	background-color: ;
+}
+
+#usuario {
+	text-align: right;
+	float: right;
+	padding-right: 15px;
+	background-color: ;
+}
+
+
+article {
+	width: 100%;
+	height: 100%;
+	background-color: pink;	
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+
+
+
+.Logobox {
+	font-family: 'Product Sans', Arial, sans-serif;
+	
+	width: 290px;
+	height: 50%;
+	margin: 0 auto;
+	background-color: ;
+	margin-top: 100px;
+}
+
+
+.searchbox {	
+	width: 499px;
+	height: 36px;
+	margin: auto;
+	margin-top: 18px;
+	border: solid whitesmoke 1px;
+	text-align: right;
+}
+	
+
+.searchbutton {
+	width: 110px;
+	height: 30px;
+	background-color: whitesmoke;
+	float: left;
+	margin: auto;
+	margin-top: 20px;
+	font-size: 8px;
+	color: darkgray;
+	text-align: center;
+	margin-left: 50%;
+	border-radius: 2px;
+	
+}
+
+.searchbutton img {
+	text-align: center;
+}
+
+.luckybutton {
+	width: 110px;
+	height: 30px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 20px;
+	font-size: 8px;
+	color: darkgray;
+	text-align: center;
+	border-radius: 2px;	
+}
+
+.Languages {
+	width: 240px;
+	height: 50px;
+	background-color: aliceblue;	
+	margin-top: 150px;
+	padding-left: 10px;
+	font-size: 10px;
+}
+
+
+footer {
+	width: 90%;
+	height: 65px;
+	background-color: gainsboro;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 15px;
+
+}
